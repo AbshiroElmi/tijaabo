@@ -67,7 +67,7 @@ app_license = "mit"
 # Installation
 # ------------
 
-# before_install = "tijaabo.install.before_install"
+before_install = "tijaabo.install.change_label"
 # after_install = "tijaabo.install.after_install"
 
 # Uninstallation
